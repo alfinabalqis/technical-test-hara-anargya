@@ -1,0 +1,17 @@
+export const cities = [
+  { id: 101, name: "Bandung", provinceId: 1 },
+  { id: 102, name: "Cimahi", provinceId: 1 },
+  { id: 201, name: "Semarang", provinceId: 2 },
+  { id: 202, name: "Kediri", provinceId: 2},
+  { id: 301, name: "Surabayar", provinceId: 3},
+  { id: 401, name: "Pekanbaru", provinceId: 4},
+  { id: 402, name: "Siak", provinceId: 4},
+  { id: 501, name: "Merauke", provinceId: 5},
+  { id: 502, name: "Jayapura", provinceId: 5},
+  { id: 503, name: "Mimika", provinceId: 5},
+  { id: 203, name: "Banjarnegara", provinceId: 2},
+  { id: 302, name: "Malang", provinceId: 3},
+  { id: 601, name: "Denpasar", provinceId: 6},
+  { id: 103, name: "Depok", provinceId: 1},
+  { id: 204, name: "Purwokerto", provinceId: 2},
+];
