@@ -1,7 +1,13 @@
-<script setup></script>
+<script>
+import Sidebar from './components/Sidebar.vue';
+export default {
+  name: 'App',
+  components: {
+    Sidebar
+  }
+}
+</script>
 
 <template>
-  <div class="text-lg font-bold">Hallo Folks!</div>
+  <Sidebar/>
 </template>
-
-<style scoped></style>
